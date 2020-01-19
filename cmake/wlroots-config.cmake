@@ -5,4 +5,3 @@ set(WLROOTS_INCLUDE
 )
 
 set(WLROOTS_LIBS wlroots)
-
